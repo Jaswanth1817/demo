@@ -2,3 +2,9 @@ a=10
 b=200
 print(a+b)
 print(a*b)
+print(a-b)
+print(a/b)
+print(a%b)
+c=122
+d=a*b*c
+print(d)
